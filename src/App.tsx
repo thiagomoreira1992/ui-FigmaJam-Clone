@@ -34,7 +34,7 @@ const INITIAL_NODES = [
     },
     data: {},
    },
-] satisfies Node[]
+]
 
 function App() {
 
